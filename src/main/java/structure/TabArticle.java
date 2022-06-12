@@ -17,6 +17,7 @@ import modele.Commentaire;
 public class TabArticle{
 
 	private Connection connection;
+	private Connection connectio;
 	
 	TabAuteur tabAut = new TabAuteur();
 	TabCategorie tabCat = new TabCategorie();
