@@ -7,7 +7,7 @@ public class Article {
 	private String contenu;
 	private Auteur auteur;
 	private Categorie categorie;
-	private Categorie categori;
+	
 	public Article() {}
 
 	public Article(int id, String titre, String contenu, Auteur auteur, Categorie categorie) {
